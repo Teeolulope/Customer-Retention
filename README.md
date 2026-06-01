@@ -1,6 +1,6 @@
 **Customer Retention & Sales Analytics Dashboard**
 
-Business Problem
+**Business Problem**
 The Sales and Customer Success teams needed visibility into customer purchasing behavior, engagement levels, and order activity to improve customer retention and maximize revenue.
 
 **Dashboard Overview**
