@@ -29,7 +29,7 @@ Revenue contribution (Top 20% = High Value)
 This framework enabled the identification of high-value customers, churn risks, and customer engagement trends.
 
 **Tools Used**
-Power BI
-DAX
-Data Modeling
+Power BI.
+DAX,
+Data Modeling,
 Data Visualization
