@@ -24,14 +24,14 @@ Customer Lifetime Value Metrics
 
 ![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/2f245c3388ac15c79a66f9d8f5db2b850177a435/Dataset)
 ![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/d7c48fbd89e065489784fee3bd1b4509c279ed9c/Dataset%201)
-![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/7cd99d2cad9e12fc7c57d0b28a9c76d58d41369a/Modeling)
+
 ---
 
 ## Tools Used
 
 * **Power Query** – Data cleaning and transformation
 * **Power BI** – Data modeling, DAX calculations, and dashboard development
-* **Microsoft PowerPoint** – Dashboard wireframe design and planning
+
 
 ---
 
@@ -42,6 +42,7 @@ Customer Lifetime Value Metrics
 * Removed duplicate records and handled missing values.
 * Standardized data formats and ensured consistency across customer and transaction records.
 * Created relationships between relevant tables to support accurate reporting.
+![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/7cd99d2cad9e12fc7c57d0b28a9c76d58d41369a/Modeling)
 
 ### Feature Engineering
 
