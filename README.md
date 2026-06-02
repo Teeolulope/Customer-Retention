@@ -22,7 +22,7 @@ The dataset contains customer and order transaction records, including key varia
 * Customer Activity Status
 * Purchase Frequency
 * Customer Lifetime Value Metrics
-
+![Data Source](Dataset.png)
 ---
 
 ## Tools Used
