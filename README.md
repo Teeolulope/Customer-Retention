@@ -92,7 +92,7 @@ The dashboard was designed with a focus on usability, business storytelling, and
 * Customer Purchase Frequency Analysis
 * High-Value Customer Identification
 * Interactive Filters and Drill-Through Features
-![Data Source]()
+![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/33116884e38faba3cb182da3c1a15d88e621f145/Dashboard)
 ---
 
 ## Key Insights
