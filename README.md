@@ -22,7 +22,7 @@ The dataset contains customer and order transaction records, including key varia
 * Customer Activity Status
 * Purchase Frequency
 * Customer Lifetime Value Metrics
-![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/6d7351dac3c2626d86ee8e45d718127c42d3d7ad/Dataset%201)
+![Data Source](https://github.com/Teeolulope/Customer-Retention/blob/2f245c3388ac15c79a66f9d8f5db2b850177a435/Dataset)
 ---
 
 ## Tools Used
