@@ -92,7 +92,7 @@ The dashboard was designed with a focus on usability, business storytelling, and
 * Customer Purchase Frequency Analysis
 * High-Value Customer Identification
 * Interactive Filters and Drill-Through Features
-
+![Data Source]()
 ---
 
 ## Key Insights
